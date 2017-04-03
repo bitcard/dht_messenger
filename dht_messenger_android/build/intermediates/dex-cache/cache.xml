@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/djsteffey/data/unc/thesis/dht_messenger_android/app/libs/netty-transport-4.0.28.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cce15e674bd1b51f81be1394baaa170b73b62b9b">
+        <dex dex="/home/djsteffey/data/unc/thesis/dht_messenger_android/app/build/intermediates/pre-dexed/debug/netty-transport-4.0.28.Final_db3732163ad5a30192e64da4dc9555b2466c5973.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/djsteffey/data/unc/thesis/dht_messenger_android/app/libs/slf4j-api-1.7.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b262da268f8ad9eff941b25503a9198f0a0ac93">
+        <dex dex="/home/djsteffey/data/unc/thesis/dht_messenger_android/app/build/intermediates/pre-dexed/debug/slf4j-api-1.7.5_93e2913d877ea1ece87dc3267d4650b473e903ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/djsteffey/data/unc/thesis/dht_messenger_android/app/libs/netty-common-4.0.28.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d1f452cd406c3ffa6590af77546393374d9c660b">
+        <dex dex="/home/djsteffey/data/unc/thesis/dht_messenger_android/app/build/intermediates/pre-dexed/debug/netty-common-4.0.28.Final_10643934315dac24d36104aa9b61d5f96b724240.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/djsteffey/data/unc/thesis/dht_messenger_android/app/libs/tomp2p-dht-5.0-Beta8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e277d736076235d6defb97bad279a1bf625adadf">
+        <dex dex="/home/djsteffey/data/unc/thesis/dht_messenger_android/app/build/intermediates/pre-dexed/debug/tomp2p-dht-5.0-Beta8_36970a9a947f167c37e1a099afd37fb703593285.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/djsteffey/data/unc/thesis/dht_messenger_android/app/libs/netty-buffer-4.0.28.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8bfa26e51e9701042c35a3135b57d2c0a770165">
+        <dex dex="/home/djsteffey/data/unc/thesis/dht_messenger_android/app/build/intermediates/pre-dexed/debug/netty-buffer-4.0.28.Final_da0e9dd23b7a7760561bbdf89d25cccc06f0845d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/djsteffey/data/unc/thesis/dht_messenger_android/app/libs/tomp2p-core-5.0-Beta8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e577ff6edbd3a670290eae01b7ee123b0f2c45c2">
+        <dex dex="/home/djsteffey/data/unc/thesis/dht_messenger_android/app/build/intermediates/pre-dexed/debug/tomp2p-core-5.0-Beta8_0d2972df3a6ef5a848ca76ca7de09c0ec02efc2f.jar" />
+    </item>
+
+</items>
